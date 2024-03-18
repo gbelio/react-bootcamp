@@ -13,7 +13,7 @@ const Hola = () =>{
     return (
     <div>
       <Hola />
-      <Mensaje name="Gaston" surname="Belio" color="red"/>
+      <Mensaje name="Gaston" surname="Belio" color="blue"/>
     </div>
     )
     };
